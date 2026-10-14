@@ -34,6 +34,5 @@ ai-comeback/
 ├── development/           # 학습 과제, 리팩토링, 코드 리뷰 기록
 │   ├── reviews/
 │   └── tasks/
-└── contents/              # 블로그 및 Shorts 대본 기록
-    ├── blog/
-    └── shorts/
+└── contents/              # 블로그 기록
+    └── blog/
