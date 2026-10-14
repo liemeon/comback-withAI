@@ -30,7 +30,7 @@ ai-comeback/
 ├── context/               # AI 팀 공유용 개발자 프로필 및 배경 지식
 │   └── user_profile.md
 ├── discussions/           # AI 4자 회의록 (Daily/Weekly)
-│   └── 2026-09-01_day01.md
+│   └── 2026-10-14_day01.md
 ├── development/           # 학습 과제, 리팩토링, 코드 리뷰 기록
 │   ├── reviews/
 │   └── tasks/
